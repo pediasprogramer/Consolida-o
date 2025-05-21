@@ -1,6 +1,6 @@
 # Portfólio - Projeto de Consolidação e Padronização de Dados
 
-Bem-vindo ao meu projeto pessoal desenvolvido em Python, focado em automação de tarefas de consolidação e padronização de dados. Este repositório demonstra minhas habilidades em manipulação de dados com `pandas`, extração de texto com `PyPDF2`, e organização de arquivos com bibliotecas como `os` e `shutil`. Criado por Pedro Neto em 21 de maio de 2025.
+Bem-vindo ao meu projeto pessoal desenvolvido em Python, focado em automação de tarefas de consolidação e padronização de dados. Este repositório demonstra minhas habilidades em manipulação de dados com `pandas`, extração de texto com `PyPDF2`, e organização de arquivos com bibliotecas como `os` e `shutil`. Criado por mim em alguns meses atrás.
 
 ## Sobre o Projeto
 
